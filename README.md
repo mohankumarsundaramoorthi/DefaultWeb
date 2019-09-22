@@ -1,2 +1,0 @@
-# DefaultWeb
-Default web repo
